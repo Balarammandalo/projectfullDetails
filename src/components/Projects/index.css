@@ -1,0 +1,84 @@
+.project-details {
+  padding: 15px 30px 20px 30px;
+}
+.project-list {
+  font-size: 20px;
+  padding-left: 15px;
+}
+.project-list {
+  width: 180px;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 150px;
+  margin-top: 30px;
+}
+.failure-image {
+  height: 50vh;
+}
+.failure-text {
+  text-align: center;
+}
+
+.failure-heading {
+  font-size: 30px;
+}
+
+.failure-para {
+  font-size: 20px;
+}
+.retry-button {
+  background-color: #328af2;
+  width: 90px;
+  height: 28px;
+  border: none;
+  outline: none;
+  font-size: 17px;
+  color: white;
+  font-weight: 500;
+}
+.success-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 15px;
+}
+
+.project-lists {
+  width: 16%;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 3px 3px #e2e8f0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: none;
+}
+
+.project-image {
+  width: 100%;
+}
+
+.project-para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #475569;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  padding: 15px;
+}
